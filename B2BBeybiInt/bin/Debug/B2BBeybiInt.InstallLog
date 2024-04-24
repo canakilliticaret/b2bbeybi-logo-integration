@@ -1,0 +1,173 @@
+﻿Installing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+Rolling back assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+Installing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+Rolling back assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+Installing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Committing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Installing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Committing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Installing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Committing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Installing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Committing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Installing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Installing service B2B Order Windows Service...
+Creating EventLog source B2B Order Windows Service in log Application...
+Rolling back assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Restoring event log to previous state for source B2B Order Windows Service.
+Installing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Installing service B2B Order Windows Service...
+Creating EventLog source B2B Order Windows Service in log Application...
+Rolling back assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Restoring event log to previous state for source B2B Order Windows Service.
+Installing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Installing service B2B Order Windows Service...
+Creating EventLog source B2B Order Windows Service in log Application...
+Rolling back assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Restoring event log to previous state for source B2B Order Windows Service.
+Uninstalling assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Removing EventLog source B2B Order Windows Service.
+Warning: The source B2B Order Windows Service is not registered on the local machine.
+Service B2B Order Windows Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Installing service B2B Order Windows Service...
+Creating EventLog source B2B Order Windows Service in log Application...
+Rolling back assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Restoring event log to previous state for source B2B Order Windows Service.
+Installing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Installing service B2B Order Windows Service...
+Creating EventLog source B2B Order Windows Service in log Application...
+Rolling back assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Restoring event log to previous state for source B2B Order Windows Service.
+Installing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Installing service B2B Order Windows Service...
+Creating EventLog source B2B Order Windows Service in log Application...
+Rolling back assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Restoring event log to previous state for source B2B Order Windows Service.
+Installing assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Installing service B2B Order Windows Service...
+Creating EventLog source B2B Order Windows Service in log Application...
+Rolling back assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Restoring event log to previous state for source B2B Order Windows Service.
+Uninstalling assembly 'C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.InstallLog
+   assemblypath = C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+Removing EventLog source B2B Order Windows Service.
+Warning: The source B2B Order Windows Service is not registered on the local machine.
+Service B2B Order Windows Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.

@@ -1,0 +1,17 @@
+C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe.config
+C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.exe
+C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\B2BBeybiInt.pdb
+C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\Serilog.dll
+C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\Serilog.Sinks.File.dll
+C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\Serilog.xml
+C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\Serilog.Sinks.File.pdb
+C:\B2BBeybiInt\B2BBeybiInt\bin\Debug\Serilog.Sinks.File.xml
+C:\B2BBeybiInt\B2BBeybiInt\obj\Debug\Interop.UnityObjects.dll
+C:\B2BBeybiInt\B2BBeybiInt\obj\Debug\B2BBeybiInt.csproj.ResolveComReference.cache
+C:\B2BBeybiInt\B2BBeybiInt\obj\Debug\B2BBeybiInt.ProjectInstaller.resources
+C:\B2BBeybiInt\B2BBeybiInt\obj\Debug\B2BBeybiInt.csproj.GenerateResource.cache
+C:\B2BBeybiInt\B2BBeybiInt\obj\Debug\B2BBeybiInt.csproj.CoreCompileInputs.cache
+C:\B2BBeybiInt\B2BBeybiInt\obj\Debug\B2BBeybiInt.csproj.CopyComplete
+C:\B2BBeybiInt\B2BBeybiInt\obj\Debug\B2BBeybiInt.exe
+C:\B2BBeybiInt\B2BBeybiInt\obj\Debug\B2BBeybiInt.pdb
+C:\B2BBeybiInt\B2BBeybiInt\obj\Debug\B2BBeybiInt.Service1.resources
